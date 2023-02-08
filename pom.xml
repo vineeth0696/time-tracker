@@ -18,7 +18,7 @@
         <junit.version>4.12</junit.version>
         <findbugs.version>3.0.5</findbugs.version>
 	<pmd.version>3.8</pmd.version>
-	<sonar.host.url>http://44.212.71.60:9000/</sonar.host.url>
+	<sonar.host.url>http://44.202.127.19:9000/</sonar.host.url>
 	<sonar.login>admin</sonar.login>
 	<sonar.password>Pnvs@0696</sonar.password>
         <checkstyle.version>2.17</checkstyle.version>
